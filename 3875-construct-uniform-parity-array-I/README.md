@@ -6,8 +6,8 @@ You are given an array `nums1` containing `n` distinct integers.
 
 You must construct another array `nums2` of the same length such that all elements in `nums2` have the same parity:
 
-* All elements are **odd**, or
-* All elements are **even**
+- All elements are odd, or
+- All elements are even
 
 For every index `i`, exactly one of the following choices must be made:
 
